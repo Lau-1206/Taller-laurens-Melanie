@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="Leeme.md" />
+    <File Path="Taller/BaseDatos/taller.sql" />
+  </Folder>
+  <Project Path="Taller/Taller.csproj" />
+</Solution>
